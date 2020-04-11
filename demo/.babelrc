@@ -1,0 +1,18 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      { //配置项
+        "targets": {
+          "browsers": [
+            "> 1%",
+            "last 2 versions",
+            "not ie <= 8"
+          ]
+        },
+        "useBuiltIns": "usage", // 默认值是false  表示不按需打包
+        "corejs": 3
+      }
+    ]
+  ]
+}
