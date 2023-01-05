@@ -23,7 +23,7 @@
     "@babel/preset-env": "^7.8.4",
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-plugin-router": "^4.2.2",
-    "@vue/cli-service": "^4.1.0",
+    "@vue/cli-service": "^5.0.8",
     "autoprefixer": "^9.7.4",
     "babel-loader": "^8.0.6",
     "babel-plugin-component": "^1.1.1",
